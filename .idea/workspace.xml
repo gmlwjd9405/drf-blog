@@ -28,7 +28,8 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/fonts/Roboto-Light-webfont.woff" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/fonts/Roboto-Regular-webfont.woff" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/pagedown/wmd-buttons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/posts/api/permissions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog.sublime-project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog.sublime-workspace" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/css/base.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/css/changelists.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/css/dashboard.css" />
@@ -98,7 +99,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/pagedown/node-pagedown.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/pagedown_init.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/posts/api/views.py" afterPath="$PROJECT_DIR$/src/posts/api/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
