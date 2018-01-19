@@ -2,8 +2,102 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f6cfc32-b0ea-4049-816d-33f58f3e879c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/db.sqlite3" afterPath="$PROJECT_DIR$/src/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/posts/api/urls.py" afterPath="$PROJECT_DIR$/src/posts/api/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media_cdn/11/try_django_19_1_of_38.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media_cdn/14/Screen_Shot_2016-01-10_at_4.51.14_PM.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media_cdn/2/Screen_Shot_2016-01-10_at_4.51.14_PM.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media_cdn/2/Screen_Shot_2016-01-10_at_4.51.14_PM_c9ifrfF.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media_cdn/None/car.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media_cdn/None/car_7py0UuC.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media_cdn/None/car_GtgVSbO.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media_cdn/None/car_HAuHK9u.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media_cdn/None/car_HwaoHbO.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media_cdn/None/car_NXoNUde.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media_cdn/None/car_Q0HUqw8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media_cdn/None/car_QRSz8Zw.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media_cdn/None/car_QlSvxHz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media_cdn/None/car_TyQAwKk.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media_cdn/None/car_UvnCCMP.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media_cdn/None/car_WxmqsOG.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media_cdn/None/car_eK6dnfp.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media_cdn/None/car_jJqtDJp.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media_cdn/None/car_kbhlfRu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media_cdn/None/car_l8DNbMR.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media_cdn/None/car_lFiHy6u.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media_cdn/None/car_nlzOnm3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/fonts/Roboto-Bold-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/fonts/Roboto-Light-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/fonts/Roboto-Regular-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/pagedown/wmd-buttons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/posts/api/permissions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/css/changelists.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/css/dashboard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/css/fonts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/css/forms.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/css/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/css/pagedown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/css/rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/css/widgets.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/fonts/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/fonts/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/img/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/img/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/img/calendar-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/img/gis/move_vertex_off.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/img/gis/move_vertex_on.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/img/icon-addlink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/img/icon-alert.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/img/icon-calendar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/img/icon-changelink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/img/icon-clock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/img/icon-deletelink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/img/icon-no.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/img/icon-unknown-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/img/icon-unknown.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/img/icon-yes.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/img/inline-delete.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/img/search.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/img/selector-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/img/sorting-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/img/tooltag-add.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/img/tooltag-arrowright.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/js/SelectBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/js/SelectFilter2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/js/actions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/js/actions.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/js/admin/DateTimeShortcuts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/js/admin/RelatedObjectLookups.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/js/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/js/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/js/collapse.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/js/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/js/inlines.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/js/inlines.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/js/jquery.init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/js/pagedown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/js/prepopulate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/js/prepopulate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/js/timeparse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/js/urlify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/js/vendor/jquery/LICENSE-JQUERY.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/js/vendor/jquery/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/js/vendor/jquery/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/admin/js/vendor/xregexp/xregexp.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/pagedown-extra/Markdown.Extra.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/pagedown-extra/pagedown/Markdown.Converter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/pagedown/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/pagedown/Markdown.Converter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/pagedown/Markdown.Editor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/pagedown/Markdown.Sanitizer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/pagedown/demo/browser/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/pagedown/demo/browser/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/pagedown/demo/node/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/pagedown/local/Markdown.local.fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/pagedown/node-pagedown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static_cdn/pagedown_init.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/posts/api/views.py" afterPath="$PROJECT_DIR$/src/posts/api/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,74 +108,62 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/posts/api/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/posts/api/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#103#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/posts/api/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="19" column="51" lean-forward="false" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blog/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="serializers.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/posts/api/serializers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#54#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blog/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="42" column="10" lean-forward="false" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5016475">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/posts/api/views.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="42">
+                  <caret line="31" column="47" lean-forward="true" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+                  <folding>
+                    <element signature="e#0#141#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="permissions.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/posts/api/permissions.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="225">
+                  <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/posts/api/urls.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="315">
+                  <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#0#32#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="serializers.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/posts/api/serializers.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="465">
+                  <caret line="40" column="8" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+                  <folding>
+                    <element signature="e#0#54#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -91,9 +173,10 @@
       <list>
         <option value="$PROJECT_DIR$/src/blog/settings.py" />
         <option value="$PROJECT_DIR$/src/blog/urls.py" />
+        <option value="$PROJECT_DIR$/src/posts/api/urls.py" />
         <option value="$PROJECT_DIR$/src/posts/api/serializers.py" />
         <option value="$PROJECT_DIR$/src/posts/api/views.py" />
-        <option value="$PROJECT_DIR$/src/posts/api/urls.py" />
+        <option value="$PROJECT_DIR$/src/posts/api/permissions.py" />
       </list>
     </option>
   </component>
@@ -136,12 +219,6 @@
               <item name="blog-api" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog-api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="blog-api" type="b2602c69:ProjectViewProjectNode" />
@@ -198,9 +275,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15694444" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -208,7 +284,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.52235293" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42117646" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -228,14 +304,16 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/posts/api/__init__.py">
+    <entry file="file://$PROJECT_DIR$/src/blog/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="402">
+          <caret line="38" column="53" lean-forward="true" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
           <folding />
         </state>
       </provider>
@@ -248,41 +326,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/blog/urls.py">
+    <entry file="file://$PROJECT_DIR$/src/posts/api/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/posts/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-282">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/posts/api/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="51" lean-forward="false" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/posts/api/views.py">
+    <entry file="file://$PROJECT_DIR$/src/posts/api/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="465">
+          <caret line="40" column="8" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
           <folding>
-            <element signature="e#0#103#0" expanded="true" />
+            <element signature="e#0#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/posts/api/serializers.py">
+    <entry file="file://$PROJECT_DIR$/src/posts/api/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="31" column="47" lean-forward="true" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/posts/api/permissions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#54#0" expanded="true" />
-          </folding>
+          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
