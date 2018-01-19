@@ -1,3 +1,8 @@
+from django.db.models import Q
+
+from rest_framework.filters import (
+    SearchFilter, OrderingFilter,
+)
 from rest_framework.generics import (
     CreateAPIView, ListAPIView, RetrieveAPIView, RetrieveUpdateAPIView, UpdateAPIView, DestroyAPIView
 )
@@ -49,7 +54,22 @@ class PostDeleteAPIView(DestroyAPIView):
 
 
 class PostListAPIView(ListAPIView):
-    queryset = Post.objects.all()
     serializer_class = PostListSerializer
+    filter_backends = [SearchFilter, OrderingFilter]
+    search_fields = ['title', 'content', 'user__first_name']
+
+    # override
+    def get_queryset(self, *args, **kwargs):
+        # queryset_list = super(PostListAPIView, self).get_queryset(*args, **kwargs)
+        queryset_list = Post.objects.all()
+        query = self.request.GET.get("q")
+        if query:
+            queryset_list = queryset_list.filter(
+                Q(title__icontains=query) |
+                Q(content__icontains=query) |
+                Q(user__first_name__icontains=query) |
+                Q(user__last_name__icontains=query)
+            ).distinct()
+        return queryset_list
 
 
